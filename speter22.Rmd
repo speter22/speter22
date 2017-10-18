@@ -1,7 +1,10 @@
 ---
-title: "spteter22"
+title: "9:00 Section"
 output: html_document
 ---
+## Charles Redmond
+## October 15, 2017
+Here is some arithmetic:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -11,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 X=1-4
 Y=1-5
 
-# x-sqrt(y)
+# X-sqrt(y)
 ```
 
 # ## [1] 1
