@@ -1,0 +1,17 @@
+---
+title: "spteter22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+X=1-4
+Y=1-5
+
+# x-sqrt(y)
+```
+
+# ## [1] 1
